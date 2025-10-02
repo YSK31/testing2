@@ -1,1 +1,17 @@
-ewogICJuYW1lIjogImNyaWNrZXQtZ3JvdW5kIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgInZlcnNpb24iOiAiMC4wLjAiLAogICJ0eXBlIjogIm1vZHVsZSIsCiAgInNjcmlwdHMiOiB7CiAgICAiZGV2IjogInZpdGUiLAogICAgImJ1aWxkIjogInZpdGUgYnVpbGQiLAogICAgInByZXZpZXciOiAidml0ZSBwcmV2aWV3IgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJ2aXRlIjogIl43LjEuOCIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAidGhyZWUiOiAiXjAuMTgwLjAiCiAgfQp9Cg==
+{
+  "name": "cricket-ground",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.8"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  }
+}
